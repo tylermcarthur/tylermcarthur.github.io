@@ -1,0 +1,29 @@
+body {
+  background-color: gray;
+}
+#name{
+    font-style: italic;
+}
+#info-1 {
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    width: 20%;
+    font-weight: bold;
+    color: yellow;
+}
+#picture {
+    position: absolute;
+    top: 0%;
+    left: 20%;
+}
+#list_of_links{
+    position: absolute;
+    top: 80%;
+    left: 20%;
+}
+#dangerous{
+    position: absolute;
+    top: 0%;
+    left: 70%;
+}
